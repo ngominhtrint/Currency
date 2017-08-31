@@ -1,0 +1,37 @@
+PODS:
+  - Alamofire (4.0.1)
+  - Appirater (2.0.5)
+  - Crashlytics (3.8.4):
+    - Fabric (~> 1.6.3)
+  - Fabric (1.6.11)
+  - Flurry-iOS-SDK/FlurrySDK (8.0.1)
+  - Google-Mobile-Ads-SDK (7.19.1)
+  - Mixpanel-swift (2.1.5)
+  - Refresher (0.6.1)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0.1)
+  - Appirater (~> 2.0.4)
+  - Crashlytics
+  - Fabric
+  - Flurry-iOS-SDK/FlurrySDK
+  - Google-Mobile-Ads-SDK (~> 7.5)
+  - Mixpanel-swift
+  - Refresher
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  Appirater: e7c0a47fb67ee5041ce8479e6ba960927fb40264
+  Crashlytics: 79e236942ca1e7fc641df1feb9a275360a78ab6a
+  Fabric: 5911403591946b8228ab1c51d98f1d7137e863c6
+  Flurry-iOS-SDK: 7fd65ee59e78576e80fd08219376bfd7ba0db306
+  Google-Mobile-Ads-SDK: 43ac87810e4961f5093024d3525bfe022f956da3
+  Mixpanel-swift: bcf863981f72c3bb2a51549292da61f13043d944
+  Refresher: 7c6f09ef3428aa921cb477611fb26bf29a9e5492
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 8b49ad0743f5178f457af01990f52ef5411ca295
+
+COCOAPODS: 1.2.1
